@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/CMakeFiles/bootloader
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/CMakeFiles/bootloader.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/CMakeFiles/bootloader-complete.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/FORMATION/COURS DEEP LEARNING/CODE/KWS/DEPLOIEMENT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
